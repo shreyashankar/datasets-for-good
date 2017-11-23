@@ -1,6 +1,6 @@
 # Datasets for Social Good Projects
 
-I was inspired to create this after taking many project-based CS and AI classes at Stanford, where I would spend more time finding data for a problem I actually cared about than writing the baseline.
+I was inspired to create this after taking many project-based CS and AI classes at Stanford, where I would spend more time finding data for a problem I actually cared about than writing the baseline algorithm.
 
 The list is divided by sector, and each link has a (D), (T), or (C) next to it. (D) represents a dataset; (T) represents a tutorial; (C) represents an online challenge you can download data from and contribute knowledge to.
 
