@@ -77,10 +77,10 @@ I am sure there are many great datasets I have missed. If you have datasets to a
 + [Fake News Dataset](https://www.kaggle.com/mrisdal/fake-news) (D)
 + [Credit Card Fraud Detection](https://www.kaggle.com/dalpozz/creditcardfraud/data) (D)
 + [Crime in India Dataset](https://www.kaggle.com/rajanand/crime-in-india) (D)
-+ [Fatal Police Shootings in the US](https://www.washingtonpost.com/graphics/national/police-shootings-2017/) (D)
++ [Fatal Police Shootings in the US](https://www.washingtonpost.com/graphics/investigations/police-shootings-database/) (D)
 + [Crimes Committed in France](https://www.kaggle.com/government-of-france/crimes-in-france) (D)
 + [Homelessness in USA](https://github.com/ali-ce/datasets/tree/master/Homelessness-in-USA) (D)
-+ [Modeling Bias in Age, Race, and Gender](https://github.com/dssg/hitchhikers-guide/tree/master/tech-tutorials/model_eval) (T)
++ [Modeling Bias in Age, Race, and Gender](https://github.com/dssg/hitchhikers-guide/tree/master/sources/tech-tutorials/model_eval) (T)
 + [Classifying Anti-Refugee Tweets](https://github.com/cs4good/social-good-106-section/tree/master/sentiment-analysis) (T)
 
 ### Other Good Lists of Datasets
