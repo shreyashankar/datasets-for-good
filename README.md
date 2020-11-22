@@ -89,6 +89,7 @@ I am sure there are many great datasets I have missed. If you have datasets to a
 + http://kevinchai.net/datasets
 + https://www.kaggle.com/datasets
 + http://archive.ics.uci.edu/ml/datasets.html?sort=nameUp&view=list
++ https://github.com/rafalab/dslabs/tree/master/data
 
 
 
